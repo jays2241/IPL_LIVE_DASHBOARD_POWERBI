@@ -18,8 +18,4 @@ This project focuses on creating a live data dashboard for the Indian Premier Le
 - **Cricbuzz API:** To fetch live cricket data and statistics.
 - **DAX & Power Query:** For data transformation and advanced calculations.
 
-## Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/IPL_LIVE_DASHBOARD_POWERBI.git
